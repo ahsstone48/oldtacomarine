@@ -350,9 +350,9 @@
     height: 100%;
     flex-direction: column;
     align-items: center;
-    font-family: Times, Times New Roman, serif;
-    background-color: black;
-    color: white;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;;
+    background-color: green;
+    color: yellow;
   }
   #index .logo {
     margin-top: 2em;
