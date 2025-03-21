@@ -45,7 +45,7 @@
    * 2. Correct the odd `em` font sizing in all browsers.
    */
   pre {
-    font-family: monospace, monospace; /* 1 */
+   font-family: "Comic Sans MS", "Comic Sans", cursive;
     font-size: 1em; /* 2 */
   }
   
