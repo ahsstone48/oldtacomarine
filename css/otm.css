@@ -45,7 +45,7 @@
    * 2. Correct the odd `em` font sizing in all browsers.
    */
   pre {
-   font-family: "Comic Sans MS", "Comic Sans", cursive;
+   font-family: "Comic Sans MS";
     font-size: 1em; /* 2 */
   }
   
@@ -83,7 +83,7 @@
   code,
   kbd,
   samp {
-   font-family: "Comic Sans MS", cursive, sans-serif;
+   font-family: "Comic Sans MS";
    font-size: 1em; /* 2 */
   }
   
@@ -318,7 +318,7 @@
   
   .logo {
     font-size: 4.5rem;
-    font-family: Times, Times New Roman, serif;
+    font-family: "Comic Sans MS";
     font-variant: small-caps;
     text-align: center;
     color: #FFFFFF;
@@ -350,8 +350,8 @@
     height: 100%;
     flex-direction: column;
     align-items: center;
-    font-family: "Comic Sans MS", "Comic Sans", cursive;;
-    background-color: green;
+    font-family: "Comic Sans MS";
+    background-color: pink;
     color: yellow;
   }
   #index .logo {
